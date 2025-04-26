@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('miriam.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 2px 2px 5px black;
+  }
+  
